@@ -1,8 +1,4 @@
-Template Name: Furni
-Template Author: Untree.co
-Template License: https://creativecommons.org/licenses/by/3.0/
-Author URI: https://untree.co/
-
-Twitter: https://twitter.com/Untree_co
-Facebook: https://web.facebook.com/Untree.co/
-Pinterest: https://pinterest.com/Untree_co/
+FROM: Uwa Christian
+School Project: E-commerce website 
+Images: Gotten online from a an online store 
+This web site can also be used to create other websites
